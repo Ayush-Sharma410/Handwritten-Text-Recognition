@@ -1,9 +1,9 @@
 # Handwritten-Text-Recognition
 
-Problem Statement: 
+# Problem Statement: 
 To improve the accuracy and efficiency of Handwritten Text Recognition systems to better recognize and convert handwritten text into machine-encoded text, despite the variability in handwriting styles, the complexity of the written script, and the low quality of input images. 
  
-Description of problem: 
+# Description of problem: 
 Handwritten Text Recognition (HTR) systems face several challenges due to the variability of handwriting styles, the complexity of the written script, and the low quality of input images. These challenges can result in low accuracy rates and errors in recognizing handwritten text, making it difficult to use HTR systems for practical applications such as document digitization or postal address recognition. Addressing this problem requires the development of innovative techniques and algorithms for preprocessing, segmentation, feature extraction, machine learning, and error correction, as well as the use of high-quality data and advanced hardware and software technologies. By addressing this problem, HTR systems can become more effective and reliable tools for digitization, data entry, and other applications, leading to significant benefits for businesses, organizations, and individuals. 
 Page 1 of 8 
 Code and Explanation: 
@@ -17,7 +17,7 @@ Prescriptions folder is to be added before running the program:
 https://drive.google.com/drive/folders/1Ptexl9CiKC9iWy09Pl6fvSX49ilTRjGB 
 	• 	Prescriptions will have pictures of various handwritten texts. 
  
-Directory structure: 
+# Directory structure: 
   
  ![image](https://user-images.githubusercontent.com/98555526/233328241-237f53c4-72fb-4e9b-b959-0bd68ce852f6.png)
  
@@ -25,7 +25,7 @@ We install pytesseract in Google Collaboratory.
   ![image](https://user-images.githubusercontent.com/98555526/233328373-f7a6f49d-8951-4cc6-940f-7ba9c9ebc8d5.png)
 
  
-IMPORTING USED MODULES 
+# IMPORTING USED MODULES 
 Brief description of the imported modules: 
 1.	os: The OS module in Python provides functions for interacting with the operating system. OS comes under Python’s standard utility modules. This module provides a portable way of using operating system-dependent functionality. The *os* and *os.path* modules include many functions to interact with the file system. 
  
@@ -80,7 +80,7 @@ The code then loops through all the files in a specified image folder and loads 
  
   
  
-Implementation: 
+# Implementation: 
  
 Sample 1: 
     ![image](https://user-images.githubusercontent.com/98555526/233327468-d8c7696a-6e73-4768-882d-99f5313dc66f.png)
